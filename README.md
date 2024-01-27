@@ -56,8 +56,8 @@
 | Static test data|  |
 | Static test videos | [Static tests (N-3 rocket) (Youtube)](https://www.youtube.com/playlist?list=PLU4mNMcaNBwbbmH-_TkvQtz1neBzYmwhG)| 
 | Pop test data| |
-| Pop test video| [Ejection testing (N-3 rocket) (Youtube)](https://www.youtube.com/playlist?list=PLU4mNMcaNBwZkfRVIF7I05LBG0w9x6RPQ) |ga
-| Parachute test video| [Parachute test (Nylon and Cloth) (Youtube)] (https://www.youtube.com/watch?v=twMw1OR_p1s&ab_channel=NakujaProject)|
+| Pop test video| [Ejection testing (N-3 rocket) (Youtube)](https://www.youtube.com/playlist?list=PLU4mNMcaNBwZkfRVIF7I05LBG0w9x6RPQ) |
+| Parachute test video| [Parachute test (Nylon and Cloth) (Youtube)](https://www.youtube.com/watch?v=twMw1OR_p1s) |
 | Drone test data | [N3-BaseStation/drone_logs](https://github.com/nakujaproject/N3-BaseStation/tree/main/drone_logs) |
 
 
