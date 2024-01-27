@@ -42,9 +42,10 @@
 ## Testing
 | Component         | Link  | 
 |---|---|
-| Static test data| |
+| Static test data|  |
 | Pop test data| |
 | Parachute test data| |
+| Drone test data | [N3-BaseStation/drone_logs](https://github.com/nakujaproject/N3-BaseStation/tree/main/drone_logs) |
 
 ## Launch data
 | Component         | Link  | 
