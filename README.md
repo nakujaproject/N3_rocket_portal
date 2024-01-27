@@ -33,10 +33,13 @@
 | Component         | Link  | 
 |---|---|
 | Solid rocket motor design calculation  |   |  
-| OpenMotor simulation file |   |  
-| Casing design data |   |  
-| Nozzle design data  |   |  
-| Bulkhead design data  |   |  
+| OpenMotor simulation file | [N3-Solid-_Propulsion/FlightData_N3_launch/OpenMotor](https://github.com/nakujaproject/N3-Solid-_Propulsion/tree/main/FlightData_N3_launch/OpenMotor)  |  
+| Casing CAD data  | [N3-Solid-_Propulsion/FlightData_N3_launch/Motor_design_mildsteel_casing/for_outsourcing/CAD/casing_rev.SLDDRW](https://github.com/nakujaproject/N3-Solid-_Propulsion/blob/main/FlightData_N3_launch/Motor_design_mildsteel_casing/for_outsourcing/CAD/casing_rev.SLDDRW) |  
+| Casing drawing  | [N3-Solid-_Propulsion/FlightData_N3_launch/Motor_design_mildsteel_casing/for_outsourcing/casing_ID_69mm/casing_rev.pdf](https://github.com/nakujaproject/N3-Solid-_Propulsion/blob/main/FlightData_N3_launch/Motor_design_mildsteel_casing/for_outsourcing/casing_ID_69mm/casing_rev.pdf) |
+| Nozzle CAD data  | [N3-Solid-_Propulsion/FlightData_N3_launch/Motor_design_mildsteel_casing/for_outsourcing/CAD/nozzle7.SLDPRT](https://github.com/nakujaproject/N3-Solid-_Propulsion/blob/main/FlightData_N3_launch/Motor_design_mildsteel_casing/for_outsourcing/CAD/nozzle7.SLDPRT)  |  
+| Nozzle drawing (No mounting holes)  |  [N3-Solid-_Propulsion/FlightData_N3_launch/Motor_design_mildsteel_casing/for_outsourcing/casing_ID_69mm/nozzle7.pdf](https://github.com/nakujaproject/N3-Solid-_Propulsion/blob/main/FlightData_N3_launch/Motor_design_mildsteel_casing/for_outsourcing/casing_ID_69mm/nozzle7.pdf) |  
+| Bulkhead CAD data | [N3-Solid-_Propulsion/FlightData_N3_launch/Motor_design_mildsteel_casing/for_outsourcing/CAD/bulkhead_rev.SLDDRW](https://github.com/nakujaproject/N3-Solid-_Propulsion/blob/main/FlightData_N3_launch/Motor_design_mildsteel_casing/for_outsourcing/CAD/bulkhead_rev.SLDDRW)  |  
+| Bulkhead drawing (No mounting holes) | [N3-Solid-_Propulsion/FlightData_N3_launch/Motor_design_mildsteel_casing/for_outsourcing/casing_ID_69mm/bulkhead_rev.pdf](https://github.com/nakujaproject/N3-Solid-_Propulsion/blob/main/FlightData_N3_launch/Motor_design_mildsteel_casing/for_outsourcing/casing_ID_69mm/bulkhead_rev.pdf)|
 | SRM casting video|[Melting and Recasting of KNSB grains (Youtube)](https://www.youtube.com/watch?v=jb04f0nT33g) | 
 
 ## Static test stand
