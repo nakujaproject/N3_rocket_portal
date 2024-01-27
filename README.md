@@ -38,14 +38,34 @@
 | Nozzle design data  |   |  
 | Bulkhead design data  |   |  
 
+## Static test stand
+| Component         | Link  | 
+|---|---|
+| Ignitor design | |
+| Ignition circuit design data | | 
+| Ignition controller PCB design data | |
+| Ignition controller firmware | | 
+| Static test stand design calculation |  |
+| Static test stand CAD data | |
+
 
 ## Testing
 | Component         | Link  | 
 |---|---|
 | Static test data|  |
+| Static test videos | | 
 | Pop test data| |
 | Parachute test data| |
 | Drone test data | [N3-BaseStation/drone_logs](https://github.com/nakujaproject/N3-BaseStation/tree/main/drone_logs) |
+
+
+## Launch preparation documents
+| Component         | Link  | 
+|---|---|
+| Launch procedure | |
+| Dry run | |
+| Participants list || 
+
 
 ## Launch data
 | Component         | Link  | 
