@@ -3,7 +3,7 @@
 
 ## Specification
 | Component         | Link  | 
-|---|---|---|---|---|
+|---|---|
 | Rocket specifications | |
 | Rocket measured data | |
 | Rocket photos | |
@@ -11,7 +11,7 @@
 
 ## Airframe
 | Component         | Link  | 
-|---|---|---|---|---|
+|---|---|
 | OpenRocket simulation file |   |
 | Airframe CAD data         |   |
 | Nose cone 3D print data| |
@@ -22,7 +22,7 @@
 
 ## Recovery
 | Component         | Link  | 
-|---|---|---|---|---|
+|---|---|
 | Flight computer PCB design data | |
 | Ejection PCB design data | |
 | Flight computer firmware | [N2-AvionicsFlightSoftware ](https://github.com/nakujaproject/N2-AvionicsFlightSoftware)  |  
@@ -31,7 +31,7 @@
 
 ## Propulsion
 | Component         | Link  | 
-|---|---|---|---|---|
+|---|---|
 | Solid rocket motor design calculation  |   |  
 | Solid rocket motor OpenMotor simulation  |   |  
 | Solid rocket motor casing design data |   |  
@@ -41,14 +41,14 @@
 
 ## Testing
 | Component         | Link  | 
-|---|---|---|---|---|
+|---|---|
 | Static test data| |
 | Pop test data| |
 | Parachute test data| |
 
 ## Launch data
 | Component         | Link  | 
-|---|---|---|---|---|
+|---|---|
 | Sensor telemetry data | |
 | Video from onboard camera  | |
 | Photos for launch | |
