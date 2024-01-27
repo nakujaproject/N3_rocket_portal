@@ -5,6 +5,9 @@
 | Component         | Link  | 
 |---|---|---|---|---|
 | Rocket specifications | |
+| Rocket measured data | |
+| Rocket photos | |
+
 
 ## Airframe
 | Component         | Link  | 
@@ -22,7 +25,7 @@
 |---|---|---|---|---|
 | Flight computer PCB design data | |
 | Ejection PCB design data | |
-| Flight computer firmware |   |  
+| Flight computer firmware | [N2-AvionicsFlightSoftware ](https://github.com/nakujaproject/N2-AvionicsFlightSoftware)  |  
 | Ground station dashboard | [N3-BaseStation](https://github.com/nakujaproject/N3-BaseStation)  | 
 
 
@@ -42,6 +45,13 @@
 | Static test data| |
 | Pop test data| |
 | Parachute test data| |
+
+## Launch data
+| Component         | Link  | 
+|---|---|---|---|---|
+| Sensor telemetry data | |
+| Video from onboard camera  | |
+| Photos for launch | |
 
 
 
