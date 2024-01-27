@@ -37,8 +37,7 @@
 | Casing design data |   |  
 | Nozzle design data  |   |  
 | Bulkhead design data  |   |  
-| SRM casting video|[Melting and Recasting of KNSB grains
- (Youtube)](https://www.youtube.com/watch?v=jb04f0nT33g) | 
+| SRM casting video|[Melting and Recasting of KNSB grains (Youtube)](https://www.youtube.com/watch?v=jb04f0nT33g) | 
 
 ## Static test stand
 | Component         | Link  | 
