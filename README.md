@@ -12,10 +12,10 @@
 ## Airframe
 | Component         | Link  | 
 |---|---|
-| OpenRocket simulation file |   |
-| Airframe CAD data   |   |
-| Nose cone 3D print data| |
-| Launch lug 3D print data| |
+| OpenRocket simulation file | [N3-airframe-CAD/OpenRocket](https://github.com/nakujaproject/N3-airframe-CAD/OpenRocket)  |
+| Airframe CAD data   | [N3-airframe-CAD](https://github.com/nakujaproject/N3-airframe-CAD)  |
+| 3D Print data (for Aluminum body) (Nose cone, launch lugs)| [N3-airframe-CAD/STL/Aluminum](https://github.com/nakujaproject/N3-airframe-CAD/tree/main/STL/Aluminum)|
+| 3D Print data (for Fibreglass body) (Nose cone, launch lugs)| [N3-airframe-CAD/STL/Fibreglass](https://github.com/nakujaproject/N3-airframe-CAD/tree/main/STL/Fibreglass)|
 | Avionics bay design data | |
 | Parachute design data | |
 | Fin design data | |
