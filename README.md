@@ -13,7 +13,7 @@
 | Component         | Link  | 
 |---|---|
 | OpenRocket simulation file |   |
-| Airframe CAD data         |   |
+| Airframe CAD data   |   |
 | Nose cone 3D print data| |
 | Launch lug 3D print data| |
 | Avionics bay design data | |
@@ -33,10 +33,10 @@
 | Component         | Link  | 
 |---|---|
 | Solid rocket motor design calculation  |   |  
-| Solid rocket motor OpenMotor simulation  |   |  
-| Solid rocket motor casing design data |   |  
-| Solid rocket motor nozzle design data  |   |  
-| Solid rocket motor bulkhead design data  |   |  
+| OpenMotor simulation file |   |  
+| Casing design data |   |  
+| Nozzle design data  |   |  
+| Bulkhead design data  |   |  
 
 
 ## Testing
