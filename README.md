@@ -8,7 +8,6 @@
 | Rocket measured data | |
 | Rocket photos | |
 
-
 ## Airframe
 | Component         | Link  | 
 |---|---|
@@ -23,8 +22,9 @@
 ## Recovery
 | Component         | Link  | 
 |---|---|
-| Flight computer PCB design data | |
-| Ejection PCB design data | |
+| Flight computer PCB design (Wifi-based. 3 of 4 N-3 rockets use this design) | []() |
+| Flight computer PCB design (LoRa-based. 1 of 4 N-3 rocket uses this design) | []() |
+| Ejection PCB design | []() |
 | Flight computer firmware | [N2-AvionicsFlightSoftware ](https://github.com/nakujaproject/N2-AvionicsFlightSoftware)  |  
 | Ground station dashboard | [N3-BaseStation](https://github.com/nakujaproject/N3-BaseStation)  | 
 
